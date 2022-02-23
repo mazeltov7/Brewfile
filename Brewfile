@@ -40,7 +40,6 @@ brew mysql
 brew oniguruma
 brew openexr
 brew openjpeg
-brew openssl@1.1
 brew pcre
 brew pcre2
 brew peco
@@ -48,7 +47,6 @@ brew perl
 brew pkg-config
 brew protobuf
 brew pyenv
-brew python@3.8
 brew rbenv
 brew rbenv-default-gems
 brew readline
